@@ -10,7 +10,7 @@ class BinaryReverser {
         - SpotifyHelper.convertBinaryStringToNumber(*another binary string*);
      */
 
-    static long reverseBinaryNumber(long number) {
+    static long reverseBinaryNumber(long numberInput) {
         return 0L;
     }
 }
